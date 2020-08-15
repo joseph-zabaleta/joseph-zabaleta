@@ -31,6 +31,7 @@ Thank you!
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000000?style=flat&logo=digitalocean)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=nodemon)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=orange)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
 ### Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
