@@ -39,6 +39,9 @@ Thank you!
 
 ---
 
+[![Joseph's Github Stats](https://github-readme-stats.vercel.app/api?username=joseph-zabaleta&show_icons=true&theme=dark)](https://github.com/joseph-zabaleta)
+
+
 
 </details>
 
