@@ -32,6 +32,7 @@ Thank you!
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=nodemon)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=orange)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)  
 
 ### Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
@@ -40,6 +41,9 @@ Thank you!
 ---
 
 [![Joseph's Github Stats](https://github-readme-stats.vercel.app/api?username=joseph-zabaleta&show_icons=true&theme=dark)](https://github.com/joseph-zabaleta)
+
+<!-- [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-zabaleta&show_icons=true&theme=dark)](https://github.com/joseph-zabaleta) -->
+
 
 
 
