@@ -49,7 +49,7 @@ Thank you!
 
 </details>
 
-[linkedin]: www.google.com
+[linkedin]: https://www.google.com
 [gmail]: mailto:joseph.l.zabaleta@gmail.com
 [hackerrank]: https://www.hackerrank.com/joseph_zabaleta
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
