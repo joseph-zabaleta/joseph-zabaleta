@@ -10,7 +10,15 @@ I have always been passionate about coding. I believe the skills that I have lea
 
 Thank you!
 
-What am I currently working ?
+### What am I currently working :bulb:?
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
+![Helm](https://img.shields.io/badge/-Helm-000000?style=flat&logo=helm)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)  
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify-000000?style=flat&logo=vuetify)  
+![Blazor](https://img.shields.io/badge/-Blazor-000000?style=flat&logo=blazor)
 
 ### Languages
 
