@@ -4,22 +4,24 @@
 [![](https://img.shields.io/badge/Gmail-joseph.l.zabaleta%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)][gmail]
 [![](https://img.shields.io/badge/HackerRank-joseph__zabaleta-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)][hackerrank]
 
-I am a web designer and software developer. I am a military veteran with years of experience in leadership, being a part of a team, and instructing others. Outside of the military I have worked in several customer service industries where I was the face of the company interacting with customers daily. Throughout my experiences I have been sharpening my problem-solving, communication, and listening skills. I have also learned the importance of accountability, integrity, and attention to detail.  
+I am a web designer and software developer. I am a military veteran with years of experience in leadership, being a part of a team, and instructing others. Outside of the military I have worked in several customer service industries where I was the face of the company interacting with customers daily. Throughout my experiences I have been sharpening my problem-solving, communication, and listening skills. I have also learned the importance of accountability, integrity, and attention to detail.
 
-I have always been passionate about coding. I believe the skills that I have learned from my experiences have helped me become the developer I am today. I am an Advanced Full-Stack Python and JavaScript developer with knowledge with many industry frameworks.  
+I have always been passionate about coding. I believe the skills that I have learned from my experiences have helped me become the developer I am today. I am an Advanced Full-Stack Python and JavaScript developer with knowledge with many industry frameworks.
 
-My goals are to continue growing in tech and to become more versed in other programming languages to further advance the art of software development.   
-  
 Thank you!
 
+What am I currently working ?
+
 ### Languages
+
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=blue)  
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=blue)
 
 ### Technologies and Tools
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
@@ -32,20 +34,18 @@ Thank you!
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=nodemon)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=orange)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)  
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)
 
-### Databases  
+### Databases
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)  
+![Postgres](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
 ---
 
 [![Joseph's Github Stats](https://github-readme-stats.vercel.app/api?username=joseph-zabaleta&show_icons=true&theme=dark)](https://github.com/joseph-zabaleta)
 
 <!-- [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-zabaleta&show_icons=true&theme=dark)](https://github.com/joseph-zabaleta) -->
-
-
-
 
 </details>
 
