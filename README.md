@@ -2,7 +2,8 @@
 
 [![](https://img.shields.io/badge/LinkedIn-joseph--zabaleta-blue?logo=LinkedIn&logoColor=blue&labelColor=black)][linkedin]
 [![](https://img.shields.io/badge/Gmail-joseph.l.zabaleta%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)][gmail]
-[![](https://img.shields.io/badge/HackerRank-joseph__zabaleta-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)][hackerrank]
+
+<!-- [![](https://img.shields.io/badge/HackerRank-joseph__zabaleta-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)][hackerrank] -->
 
 I am a web designer and software developer. I am a military veteran with years of experience in leadership, being a part of a team, and instructing others. Outside of the military I have worked in several customer service industries where I was the face of the company interacting with customers daily. Throughout my experiences I have been sharpening my problem-solving, communication, and listening skills. I have also learned the importance of accountability, integrity, and attention to detail.
 
@@ -13,12 +14,13 @@ Thank you!
 ### What am I currently working :bulb:?
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
-![Helm](https://img.shields.io/badge/-Helm-000000?style=flat&logo=helm)
-![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)  
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx&logoColor=green)  
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-000000?style=flat&logo=vuetify)  
-![Blazor](https://img.shields.io/badge/-Blazor-000000?style=flat&logo=blazor)
+![Vuetify](https://img.shields.io/badge/-Vuetify-000000?style=flat&logo=vuetify&logoColor=lightblue)  
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-000000?style=flat&logo=azuredevops&logoColor=blue)
+![Azure Pipelines](https://img.shields.io/badge/-Azure_Pipelines-000000?style=flat&logo=azurepipelines&logoColor=blue)  
+![Apache NiFi](https://img.shields.io/badge/-Apache_NiFi-000000?style=flat&logo=)
 
 ### Languages
 
@@ -43,6 +45,7 @@ Thank you!
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=orange)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)
+![Helm](https://img.shields.io/badge/-Helm-000000?style=flat&logo=helm)
 
 ### Databases
 
@@ -51,7 +54,7 @@ Thank you!
 
 ---
 
-[![Joseph's Github Stats](https://github-readme-stats.vercel.app/api?username=joseph-zabaleta&show_icons=true&theme=dark)](https://github.com/joseph-zabaleta)
+<!-- [![Joseph's Github Stats](https://github-readme-stats.vercel.app/api?username=joseph-zabaleta&show_icons=true&theme=dark)](https://github.com/joseph-zabaleta) -->
 
 <!-- [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-zabaleta&show_icons=true&theme=dark)](https://github.com/joseph-zabaleta) -->
 
