@@ -13,14 +13,16 @@ Thank you!
 
 ### What am I currently working :bulb:?
 
+![.Net](https://img.shields.io/badge/-.Net_Framework-000000?style=flat&logo=.net&logoColor=512BD4)
+![C](https://img.shields.io/badge/-C_Sharp-000000?style=flat&logo=csharp&logoColor=239120)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visual-studio&logoColor=5C2D91)
+
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx&logoColor=green)  
-![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-000000?style=flat&logo=vuetify&logoColor=lightblue)  
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx&logoColor=green)
+
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-000000?style=flat&logo=azuredevops&logoColor=blue)
-![Azure Pipelines](https://img.shields.io/badge/-Azure_Pipelines-000000?style=flat&logo=azurepipelines&logoColor=blue)  
-![Apache NiFi](https://img.shields.io/badge/-Apache_NiFi-000000?style=flat&logo=)
+![Azure Pipelines](https://img.shields.io/badge/-Azure_Pipelines-000000?style=flat&logo=azurepipelines&logoColor=blue)
 
 ### Languages
 
@@ -32,20 +34,23 @@ Thank you!
 
 ### Technologies and Tools
 
+![Apache NiFi](https://img.shields.io/badge/-Apache_NiFi-000000?style=flat&logo=)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=orange)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000000?style=flat&logo=digitalocean)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Helm](https://img.shields.io/badge/-Helm-000000?style=flat&logo=helm)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=purple)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=blue)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=purple)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000000?style=flat&logo=digitalocean)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=nodemon)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=orange)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)
-![Helm](https://img.shields.io/badge/-Helm-000000?style=flat&logo=helm)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify-000000?style=flat&logo=vuetify&logoColor=lightblue)  
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=blue)
 
 ### Databases
 
